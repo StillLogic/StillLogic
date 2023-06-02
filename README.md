@@ -1,2 +1,5 @@
-[![Jnckk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnckk&show_icons=true&theme=radical&hide=contribs)](https://github.com/Jnckk/MyProfile.git)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jnckk&theme=radical)](https://github.com/Jnckk/MyProfile.git)
+<a href="https://github.com/Jnckk/MyProfile.git">
+  <p align="left">
+     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jnckk&show_icons=true&theme=radical&hide=contribs"/>
+     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jnckk&show_icons=true&theme=radical&hide=contribs"/>
+  </p>
