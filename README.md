@@ -6,10 +6,13 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=StillLogic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=StillLogic&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StillLogic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StillLogic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=StillLogic&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    <br>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=StillLogic&theme=dark&hide_border=false" />
+</div>
 
 # 💻 Tech Stack
 
